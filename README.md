@@ -1,0 +1,2 @@
+Introduction  
+The objective of this project is to develop a predictive model to identify customers who are likely to stop using a service, a phenomenon known as customer churn. By accurately predicting churn, a business can proactively engage with at-risk customers, improving customer retention and long-term profitability. This project utilizes historical customer data to train a machine learning model to classify customers as either 'churn' (likely to leave) or 'no churn' (likely to stay).

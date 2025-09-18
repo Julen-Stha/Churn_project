@@ -3,5 +3,4 @@ joblib
 numpy
 matplotlib
 pandas
-sklearn
 scikit-learn
